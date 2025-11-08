@@ -1,6 +1,6 @@
 # GrainPalette
 Rice Variety Classification using Deep Learning (CNN)
-Nov 2025 – Personal Project
+Jul 2025 – Personal Project
 
 Built an image classification model to identify 5 rice varieties (Arborio, Basmati, Ipsala, Jasmine, Karacadag) from 75,000 RGB images using TensorFlow/Keras
 Preprocessed dataset with Pandas, Pathlib, PIL & OpenCV; used splitfolders to create 80/10/10 train-val-test splits
